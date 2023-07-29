@@ -144,8 +144,8 @@ int main()
   printf("Main Start 3\n");
 
   //test1();
-  //test2();
-  test3();
+  test2();
+  //test3();
 
   printf("Main End\n");
 }
